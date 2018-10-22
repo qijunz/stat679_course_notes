@@ -26,3 +26,5 @@ git branch
 >>>>>>> 91df28ac0f71e516d9aa5c992e9fb9b0bf79e235
 
 #### Greeting from student A using pulled branch B
+
+#### Greeting from student B using pulled branch A
