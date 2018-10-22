@@ -17,4 +17,12 @@ git branch
 
 #### Greeting from student A modifing branch B
 
+<<<<<<< HEAD
 #### Student A creates a new branch A
+=======
+#### Greeting from student B modifing branch A
+
+#### Student B creates a new branch B
+>>>>>>> 91df28ac0f71e516d9aa5c992e9fb9b0bf79e235
+
+#### Greeting from student A using pulled branch B
