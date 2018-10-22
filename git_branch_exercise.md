@@ -9,4 +9,4 @@ git checkout new-branch  # switches the current branch
 git branch
 ```
 
-#### Greeting from student B in branch A
+#### Student B creates a new branch B
