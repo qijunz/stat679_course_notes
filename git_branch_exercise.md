@@ -18,3 +18,5 @@ git branch
 #### Greeting from student A modifing branch B
 
 #### Greeting from student B modifing branch A
+
+#### Student B creates a new branch B
