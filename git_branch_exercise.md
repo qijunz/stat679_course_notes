@@ -16,3 +16,5 @@ git branch
 >>>>>>> b8c0657a947b86d1bd1e3b7a6af06afd3cea8812
 
 #### Greeting from student A modifing branch B
+
+#### Student A creates a new branch A
